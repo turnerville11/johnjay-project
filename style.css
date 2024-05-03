@@ -1,0 +1,36 @@
+body{
+    background-color: blue;
+  color-primary: darkblue;
+  color-error: darkred; 
+  color-success: darkblue;
+  border-radius: 4px;
+  margin: 0;
+  height: 100vh;
+  display: right;
+  align-items: right;
+  justify-content: right;
+  font-size: 18px;
+  background: url(/Users/leroyturner/Downloads/study.jpg);
+  
+
+}
+.aboutme {
+    padding: 2rem;
+    
+}
+.home {
+    padding: 2rem;
+}
+.cources {
+    padding: 2rem;
+}
+.apparel-gifts{
+    padding: 2rem;
+}
+.sell {
+
+}
+.track{}
+.login{
+    margin-right: auto;
+}
