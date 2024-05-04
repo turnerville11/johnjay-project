@@ -10,9 +10,11 @@ body{
   align-items: right;
   justify-content: right;
   font-size: 18px;
-  background: url(/Users/leroyturner/Downloads/study.jpg);
-  
-
+background-image: url(/images/students.png);
+background-repeat: no-repeat;
+background-position: center;
+background-image: right;
+background-color: whitesmoke;  
 }
 .aboutme {
     padding: 2rem;
@@ -21,8 +23,9 @@ body{
 .home {
     padding: 2rem;
 }
-.cources {
+.admissions {
     padding: 2rem;
+
 }
 .apparel-gifts{
     padding: 2rem;
